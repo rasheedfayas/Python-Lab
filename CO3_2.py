@@ -1,5 +1,4 @@
-#Rahul
-#21mca035
+
 
 from graphics import circle
 from graphics.rectangle import *
